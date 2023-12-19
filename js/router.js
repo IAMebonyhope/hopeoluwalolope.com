@@ -49,18 +49,23 @@ document.addEventListener("click", (e) => {
 const routes = {
     "/": {
         template: "index.html",
-        title: "Home",
-        description: "This is the home page",
+        title: "Home"
     },
     "/about": {
         template: "about.html",
-        title: "About Us",
-        description: "This is the about page",
+        title: "About"
     },
     "/contact": {
         template: "contact.html",
-        title: "Contact Us",
-        description: "This is the contact page",
+        title: "Contact"
+    },
+    "/programs": {
+        template: "programs.html",
+        title: "Community & Programs"
+    },
+    "/features": {
+        template: "features.html",
+        title: "Features"
     },
 };
 
@@ -103,6 +108,6 @@ const locationHandler = async () => {
 // add an event listener to the window that watches for url changes
 window.onpopstate = locationHandler;
 // call the urlLocationHandler function to handle the initial url
-window.route = routing;
+//window.route = routing;
 // call the urlLocationHandler function to handle the initial url
-locationHandler();
+//locationHandler();
