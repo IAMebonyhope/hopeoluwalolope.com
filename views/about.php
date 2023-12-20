@@ -45,73 +45,72 @@
 
 	<div class="container"> </div>
 
-	<section class="ftco-section" id="buttons-section">
+	<section class="ftco-about img ftco-section ftco-no-pb" id="about-section">
     	<div class="container">
-    		<div class="row">
-					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a target="_blank" href="https://hopeoluwalolope.notion.site/Bio-171a4c8e8b974bf2804656fefbe5d07d" class="services-1">
-							<span class="icon">
-								<i class="flaticon-analysis"></i>
-							</span>
-							<div class="desc">
-								<h3 class="mb-5">Speaker/Press Kit</h3>
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a target="_blank" href="https://blog.hopeoluwalolope.com/" class="services-1">
-							<span class="icon">
-								<i class="flaticon-flasks"></i>
-							</span>
-							<div class="desc">
-								<h3 class="mb-5">Writings</h3>
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a href="programs.html" class="services-1">
-							<span class="icon">
-								<i class="flaticon-ideas"></i>
-							</span>
-							<div class="desc">
-								<h3 class="mb-5">Community and Programs</h3>
-							</div>
-						</a>
-					</div>
-
-					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a href="features.html" class="services-1">
-							<span class="icon">
-								<i class="flaticon-analysis"></i>
-							</span>
-							<div class="desc">
-								<h3 class="mb-5">Features</h3>
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a target="_blank" href="https://hopeoluwalolope.notion.site/Learn-Read-With-Me-49168609673846678e468b32ea0b3f5e" class="services-1">
-							<span class="icon">
-								<i class="flaticon-flasks"></i>
-							</span>
-							<div class="desc">
-								<h3 class="mb-5">Learn/Read with me</h3>
-							</div>
-						</a>
-					</div>
-					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a href="contact.html" class="services-1">
-							<span class="icon">
-								<i class="flaticon-ideas"></i>
-							</span>
-							<div class="desc">
-								<h3 class="mb-5">Get in touch</h3>
-							</div>
-						</a>
-					</div>
+			<div class="row justify-content-center mb-5 pb-3">
+				<div class="col-md-7 heading-section text-center ftco-animate">
+				<h1 class="big big-2">About</h1>
+				<h2 class="mb-4">About Me</h2>
 				</div>
+          	</div>
+		</div>
+    </section>
+
+	<section class="ftco-about img ftco-section ftco-no-pb" id="about-section">
+    	<div class="container">
+    		<div class="row d-flex">
+    			<div class="col-md-6 col-lg-5 d-flex">
+    				<div class="img-about img d-flex align-items-stretch">
+    					<div class="overlay"></div>
+	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/profile.jpeg);">
+	    				</div>
+    				</div>
+    			</div>
+
+				<div class="col-md-6 col-lg-7 pl-lg-5 pb-5">
+    				<div class="row justify-content-start pb-3">
+						<div class="col-md-12 heading-section ftco-animate">
+							<h5> 
+								Hope Oluwalolope is a Software Engineer at Microsoft where she builds services that manage Microsoft's Cloud infrastructure. Beyond her role, she thrives as an influential leader within various tech communities.
+								<br/>
+								<br/>
+								Hope's commitment to propelling tech communities forward is most evident in her pivotal roles. She is an integral part of organizations like WWCode (Women Who Code), where she contributes to creating a supportive space for women in technology. Additionally, her involvement extends to the Azure Nigeria Community, where she participates in initiatives that drive technological advancement across the African continent. Moreover, she extends her expertise as a mentor in the Tech4Dev community, guiding and empowering fellow women on their growth journey.
+								<br/>
+								<br/>
+								Her engagement isn't limited to these communities; she also actively organizes training sessions and meetups encompassing subjects like tech interviews, algorithms, data structures, cloud computing, and career progression.
+								<br/>
+								<br/>
+								She is always striving to create an environment that nurtures continuous learning and professional growth.
+							</h5>
+						</div>
+					</div>
+		        </div>
+        	</div>
     	</div>
     </section>
+
+	<!--
+	<section class="hero-wrap js-fullheight" style="background-image:url(images/journey.png);" data-stellar-background-ratio="0.5">
+      <div class="overlay"></div>
+      <div class="container">
+    
+      </div>
+    </section>
+
+	<section class="hero-wrap js-fullheight" id="about-section">
+    	<div class="container">
+			<div class="row d-flex">
+				<div class="col-md-12 d-flex">
+    				<div class="img d-flex">
+    					<div class="overlay"></div>
+	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/journey.png);" data-stellar-background-ratio="0.5">
+	    				</div>
+    				</div>
+    			</div>
+			</div>
+    	</div>
+    </section>
+	-->
 
     <footer class="ftco-footer ftco-section">
       <div class="container">
