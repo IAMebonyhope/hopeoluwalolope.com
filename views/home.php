@@ -81,9 +81,9 @@
     	<div class="container">
     		<div class="row">
 					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a target="_blank" href="https://hopeoluwalolope.notion.site/Bio-171a4c8e8b974bf2804656fefbe5d07d" class="services-1">
+						<a target="_blank" href="https://hopeoluwalolope.notion.site/My-Bio-80647f8a2cb640f5be9202e7352e800f" class="services-1">
 							<span class="icon">
-								<i class="flaticon-analysis"></i>
+								<i class="icon-people"></i>
 							</span>
 							<div class="desc">
 								<h3 class="mb-5">Speaker/Press Kit</h3>
@@ -93,7 +93,7 @@
 					<div class="col-md-4 text-center d-flex ftco-animate">
 						<a target="_blank" href="https://blog.hopeoluwalolope.com/" class="services-1">
 							<span class="icon">
-								<i class="flaticon-flasks"></i>
+								<i class="icon-blog"></i>
 							</span>
 							<div class="desc">
 								<h3 class="mb-5">Writings</h3>
@@ -124,7 +124,7 @@
 					<div class="col-md-4 text-center d-flex ftco-animate">
 						<a target="_blank" href="https://hopeoluwalolope.notion.site/Learn-Read-With-Me-49168609673846678e468b32ea0b3f5e" class="services-1">
 							<span class="icon">
-								<i class="flaticon-flasks"></i>
+								<i class="icon-book"></i>
 							</span>
 							<div class="desc">
 								<h3 class="mb-5">Learn/Read with me</h3>
@@ -134,7 +134,7 @@
 					<div class="col-md-4 text-center d-flex ftco-animate">
 						<a href="./contact" class="services-1">
 							<span class="icon">
-								<i class="flaticon-ideas"></i>
+								<i class="icon-chat"></i>
 							</span>
 							<div class="desc">
 								<h3 class="mb-5">Get in touch</h3>

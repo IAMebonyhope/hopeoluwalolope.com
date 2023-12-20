@@ -46,58 +46,192 @@
 
     <section class="ftco-section ftco-no-pb" id="resume-section">
         <div class="container">
-            <div class="row justify-content-center pb-5">
+            <div class="row pb-5">
                 <div class="col-md-10 heading-section text-center ftco-animate">
                     <h1 class="big big-2">Community & Programs</h1>
                     <h2 class="mb-4">Community & Programs</h2>
                     <!--<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>-->
                 </div>
                 <div class="row d-flex">
+                  <div class="col-md-12">
+                    <div class="resume-wrap ftco-animate">
+                      <span class="date">Programs</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="row d-flex">
                   <div class="col-md-4 d-flex ftco-animate">
                       <div class="blog-entry justify-content-end">
-                      <a target="_blank" href="https://medium.com/@IAMebonyhope/from-fear-to-growth-my-journey-so-far-18a0a0644e6c" class="block-20" style="background-image: url('images/fear-to-growth.jpg');">
+                      <a href="./vision-board-event" class="block-20" style="background-image: url('images/vision_board_party.jpeg');">
                       </a>
                       <div class="text mt-3 float-right d-block">
+                          <h3 class="heading"><a href="./vision-board-event">Vision Board Party</a></h3>
                           <div class="d-flex align-items-center mb-3 meta">
                               <p class="mb-0">
                                   <span class="mr-2">Role: Facilitator</span>
                               </p>
                           </div>
-                          <h3 class="heading"><a target="_blank" href="https://medium.com/@IAMebonyhope/from-fear-to-growth-my-journey-so-far-18a0a0644e6c">From Fear to Growth: My Journey So Far</a></h3>
-                          <p>Today, February 1st, 2023 marks two years since I embarked on my journey as a full-time software engineer at Microsoft . . .</p>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2"><i class="icon-calendar"></i> Every January</span>
+                              </p>
+                          </div>
+                          <p>A fun workshop to help visualize your written goals for the year into a digital vision board.</p>
                       </div>
                     </div>
                   </div>
                   <div class="col-md-4 d-flex ftco-animate">
                       <div class="blog-entry justify-content-end">
-                      <a target="_blank" href="https://medium.com/@IAMebonyhope/today-she-rose-27c67c387032" class="block-20" style="background-image: url('images/today_she_rose.jpg');">
+                      <a target="_blank" href="https://www.linkedin.com/posts/nithub_veesprout-cloudcomputing-bootcamp-activity-7116497502828138497--17m" class="block-20" style="background-image: url('images/cloud-bootcamp.jpeg');">
                       </a>
                       <div class="text mt-3 float-right d-block">
+                          <h3 class="heading"><a target="_blank" href="https://www.linkedin.com/posts/nithub_veesprout-cloudcomputing-bootcamp-activity-7116497502828138497--17m">Nithub X VeeSprout Cloud Computing Bootcamp</a></h3>
                           <div class="d-flex align-items-center mb-3 meta">
                               <p class="mb-0">
-                                  <span class="mr-2">Career</span>
-                                  <span class="mr-2">Motivational</span>
+                                  <span class="mr-2">Role: Program Co-ordinator</span>
                               </p>
                           </div>
-                          <h3 class="heading"><a target="_blank" href="https://medium.com/@IAMebonyhope/today-she-rose-27c67c387032">Today She Rose</a></h3>
-                          <p>Sharon was a university lady, with high hopes, dreams, beliefs and aspirations. She believed that she . . .</p>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2"><i class="icon-calendar"></i> Oct - Dec 2023</span>
+                              </p>
+                          </div>
+                          <p>A 12-week free and virtual Cloud Computing Bootcamp—an immersive and intensive learning experience meticulously 
+                            crafted to equip participants with the knowledge and skills necessary to excel in the dynamic realm of cloud technology. 
+                          </p>
                       </div>
                     </div>
                   </div>
                   <div class="col-md-4 d-flex ftco-animate">
                       <div class="blog-entry justify-content-end">
-                      <a target="_blank" href="https://medium.com/@IAMebonyhope/writing-a-good-resume-for-a-software-developer-internship-position-a6de0337c8ea" class="block-20" style="background-image: url('images/resume-article.png');">
+                      <a target="_blank" href="https://nithub.unilag.edu.ng/dsa-bootcamp/" class="block-20" style="background-image: url('images/nithub-dsa-bootcamp.png');">
                       </a>
                       <div class="text mt-3 float-right d-block">
+                          <h3 class="heading"><a target="_blank" href="https://nithub.unilag.edu.ng/dsa-bootcamp/">Nithub Data Structures and Algorithms Bootcamp</a></h3>
                           <div class="d-flex align-items-center mb-3 meta">
                               <p class="mb-0">
-                                  <span class="mr-2">Career</span>
-                                  <span class="mr-2">CV/Resume writing</span>
-                                  <span class="mr-2">Job search</span>
+                                  <span class="mr-2">Role: Program Co-ordinator</span>
                               </p>
                           </div>
-                          <h3 class="heading"><a target="_blank" href="https://medium.com/@IAMebonyhope/writing-a-good-resume-for-a-software-developer-internship-position-a6de0337c8ea">Writing A Good Resume for A Software Developer Internship Position</a></h3>
-                          <p>Your resume or CV (as some may call it) is your first point of contact during any interview process . . . </p>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2"><i class="icon-calendar"></i> Nov 2022 - Apr 2023</span>
+                              </p>
+                          </div>
+                          <p>Bootcamp aimed at equipping participants with the knowledge of 
+                            data structures and algorithms such that they’ll be comfortable enough to ace any technical interview. 
+                          </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4 d-flex ftco-animate">
+                      <div class="blog-entry justify-content-end">
+                      <a target="_blank" href="https://www.youtube.com/playlist?list=PLVcEZG2JPVheCoaDVGb2Gm0AfFqfL7_vr" class="block-20" style="background-image: url('images/wwcode-dsa.jpeg');">
+                      </a>
+                      <div class="text mt-3 float-right d-block">
+                          <h3 class="heading"><a target="_blank" href="https://www.youtube.com/playlist?list=PLVcEZG2JPVheCoaDVGb2Gm0AfFqfL7_vr">WWCode Algorithm and Data Structures Series</a></h3>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2">Role: Program Co-ordinator</span>
+                              </p>
+                          </div>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2"><i class="icon-calendar"></i> Feb - July 2022</span>
+                              </p>
+                          </div>
+                          <p>A relaxed environment where we came together to brush up on concepts and solve questions on them. 
+                          </p>
+                          <p><a target="_blank" href="https://github.com/wwcodelagos/algorithm-and-datastructures-series">Curated a repository for the program</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row d-flex">
+                  <div class="col-md-12">
+                    <div class="resume-wrap ftco-animate">
+                      <span class="date">Communities</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="row d-flex">
+                  <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                      <a href="./vision-board-event" class="block-20" style="background-image: url('images/azure-nigeria.jpeg');">
+                      </a>
+                      <div class="text mt-3 float-right d-block">
+                          <h3 class="heading"><a href="https://www.meetup.com/nigeria-microsoft-azure-meetup-group/">Azure Nigeria Community</a></h3>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2">Role: Community Leader</span>
+                              </p>
+                          </div>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2"><i class="icon-calendar"></i> Aug 2023 - Present</span>
+                              </p>
+                          </div>
+                          <p>Contributing to the growing number of Azure enthusiasts in Nigeria.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                      <a href="#" class="block-20" style="background-image: url('images/amsft.JPG');">
+                      </a>
+                      <div class="text mt-3 float-right d-block">
+                          <h3 class="heading"><a href="#">Africans at Microsoft</a></h3>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2">Role: Chair</span>
+                              </p>
+                          </div>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2"><i class="icon-calendar"></i> Aug 2022 - Apr 2023</span>
+                              </p>
+                          </div>
+                          <p>Creating an inclusive environment at Microsoft by organizing events and forums that allowed the community members to connect with one another and feel welcomed to Microsoft.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                      <a href="https://www.womenwhocode.com/blog/women-who-code-launches-network-in-lagos-nigeria" class="block-20" style="background-image: url('images/wwcode.png');">
+                      </a>
+                      <div class="text mt-3 float-right d-block">
+                          <h3 class="heading"><a href="https://www.womenwhocode.com/blog/women-who-code-launches-network-in-lagos-nigeria">Women Who Code Lagos</a></h3>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2">Role: Director</span>
+                              </p>
+                          </div>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2"><i class="icon-calendar"></i> Aug 2019 - Aug 2023</span>
+                              </p>
+                          </div>
+                          <p>Encouraging and motivating ladies to take up a career in software development by organizing trainings, meetups, hackathons, code labs etc. </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
+                      <a href="#" class="block-20" style="background-image: url('images/OHW_participants.jpg');">
+                      </a>
+                      <div class="text mt-3 float-right d-block">
+                          <h3 class="heading"><a href="#">Google Developer Students Club, Unilag</a></h3>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2">Role: Lead</span>
+                              </p>
+                          </div>
+                          <div class="d-flex align-items-center mb-3 meta">
+                              <p class="mb-0">
+                                  <span class="mr-2"><i class="icon-calendar"></i> July 2018 - July 2019</span>
+                              </p>
+                          </div>
+                          <p>Organized a community where students can provide solutions to real life problems while learning necessary tech skill-set needed to make them employable .</p>
                       </div>
                     </div>
                   </div>
