@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Hope Oluwalolope</title>
+    <title>Hope Oluwalolope - About</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -32,12 +32,12 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav nav ml-auto">
-	          <li class="nav-item"><a href="/" class="nav-link"><span>Home</span></a></li>
-	          <li class="nav-item"><a href="/about" class="nav-link"><span>About</span></a></li>
+	          <li class="nav-item"><a href="./" class="nav-link"><span>Home</span></a></li>
+	          <li class="nav-item"><a href="./about" class="nav-link"><span>About</span></a></li>
 	          <li class="nav-item"><a target="_blank" href="https://blog.hopeoluwalolope.com/" class="nav-link"><span>Blog</span></a></li>
-	          <li class="nav-item"><a href="/programs" class="nav-link"><span>Community and Programs</span></a></li>
-	          <li class="nav-item"><a href="/features" class="nav-link"><span>Features</span></a></li>
-	          <li class="nav-item"><a href="/contact" class="nav-link"><span>Contact</span></a></li>
+	          <li class="nav-item"><a href="./programs" class="nav-link"><span>Community and Programs</span></a></li>
+	          <li class="nav-item"><a href="./features" class="nav-link"><span>Features</span></a></li>
+	          <li class="nav-item"><a href="./contact" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -127,8 +127,6 @@
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
-
-  <script src="js/router.js"></script>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>

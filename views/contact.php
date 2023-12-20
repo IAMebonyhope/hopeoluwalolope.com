@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Hope Oluwalolope</title>
+    <title>Hope Oluwalolope - Contact</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -26,19 +26,19 @@
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
     <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Hope Oluwalolope</a>
+	      <a class="navbar-brand" href="./">Hope Oluwalolope</a>
 	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav nav ml-auto">
-	          <li class="nav-item"><a href="/" class="nav-link"><span>Home</span></a></li>
-	          <li class="nav-item"><a href="/about" class="nav-link"><span>About</span></a></li>
+	          <li class="nav-item"><a href="./" class="nav-link"><span>Home</span></a></li>
+	          <li class="nav-item"><a href="./about" class="nav-link"><span>About</span></a></li>
 	          <li class="nav-item"><a target="_blank" href="https://blog.hopeoluwalolope.com/" class="nav-link"><span>Blog</span></a></li>
-	          <li class="nav-item"><a href="/programs" class="nav-link"><span>Community and Programs</span></a></li>
-	          <li class="nav-item"><a href="/features" class="nav-link"><span>Features</span></a></li>
-	          <li class="nav-item"><a href="/contact" class="nav-link"><span>Contact</span></a></li>
+	          <li class="nav-item"><a href="./programs" class="nav-link"><span>Community and Programs</span></a></li>
+	          <li class="nav-item"><a href="./features" class="nav-link"><span>Features</span></a></li>
+	          <li class="nav-item"><a href="./contact" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -147,7 +147,6 @@
   <script src="js/jquery.magnific-popup.min.js"></script>
   <script src="js/jquery.animateNumber.min.js"></script>
   <script src="js/scrollax.min.js"></script>
-  <script src="js/router.js"></script>
   
   <script src="js/main.js"></script>
     

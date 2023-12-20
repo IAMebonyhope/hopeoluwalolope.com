@@ -33,12 +33,12 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav nav ml-auto">
-	          <li class="nav-item"><a href="/" class="nav-link"><span>Home</span></a></li>
-	          <li class="nav-item"><a href="/about" class="nav-link"><span>About</span></a></li>
+	          <li class="nav-item"><a href="./" class="nav-link"><span>Home</span></a></li>
+	          <li class="nav-item"><a href="./about" class="nav-link"><span>About</span></a></li>
 	          <li class="nav-item"><a target="_blank" href="https://blog.hopeoluwalolope.com/" class="nav-link"><span>Blog</span></a></li>
-	          <li class="nav-item"><a href="/programs" class="nav-link"><span>Community and Programs</span></a></li>
-	          <li class="nav-item"><a href="/features" class="nav-link"><span>Features</span></a></li>
-	          <li class="nav-item"><a href="/contact" class="nav-link"><span>Contact</span></a></li>
+	          <li class="nav-item"><a href="./programs" class="nav-link"><span>Community and Programs</span></a></li>
+	          <li class="nav-item"><a href="./features" class="nav-link"><span>Features</span></a></li>
+	          <li class="nav-item"><a href="./contact" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -60,8 +60,8 @@
 		          		<span class="subheading">Hello!</span>
 			            <h1 class="mb-4 mt-3">I'm <span>Hope Oluwalolope</span></h1>
 			            <h5 class="mb-4">I am a Software Engineer and Community Manager who believes the world will be a better place if we all decide to show a little kindness to the next person 🤩.</h5>
-			            <p><a href="/contact" class="btn btn-primary py-3 px-4"> &nbsp; &nbsp; Reach out to me &nbsp; &nbsp;</a> </p>
-						<p><a href="/about" class="btn btn-white btn-outline-white py-3 px-4">Learn more about me</a></p>
+			            <p><a href="./contact" class="btn btn-primary py-3 px-4"> &nbsp; &nbsp; Reach out to me &nbsp; &nbsp;</a> </p>
+						<p><a href="./about" class="btn btn-white btn-outline-white py-3 px-4">Learn more about me</a></p>
 						<ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
 							<li class="ftco-animate"><a href="https://www.linkedin.com/in/hopeoluwalolope/"><span class="icon-linkedin"></span></a></li>
 							<li class="ftco-animate"><a href="https://github.com/iamebonyhope"><span class="icon-github"></span></a></li>
@@ -101,7 +101,7 @@
 						</a>
 					</div>
 					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a href="/programs" class="services-1">
+						<a href="./programs" class="services-1">
 							<span class="icon">
 								<i class="flaticon-ideas"></i>
 							</span>
@@ -112,7 +112,7 @@
 					</div>
 
 					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a href="/features" class="services-1">
+						<a href="./features" class="services-1">
 							<span class="icon">
 								<i class="flaticon-analysis"></i>
 							</span>
@@ -132,7 +132,7 @@
 						</a>
 					</div>
 					<div class="col-md-4 text-center d-flex ftco-animate">
-						<a href="/contact" class="services-1">
+						<a href="./contact" class="services-1">
 							<span class="icon">
 								<i class="flaticon-ideas"></i>
 							</span>
@@ -159,8 +159,6 @@
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
-
-  <script src="js/router.js"></script>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
