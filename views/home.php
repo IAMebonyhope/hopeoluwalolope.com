@@ -93,7 +93,7 @@
 					<div class="col-md-4 text-center d-flex ftco-animate">
 						<a target="_blank" href="https://blog.hopeoluwalolope.com/" class="services-1">
 							<span class="icon">
-								<i class="icon-blog"></i>
+								<i class="icon-note"></i>
 							</span>
 							<div class="desc">
 								<h3 class="mb-5">Writings</h3>

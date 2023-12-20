@@ -53,6 +53,36 @@
             </div>
           </div>
           <div class="row d-flex">
+          <div class="col-md-6 d-flex ftco-animate">
+                <div class="blog-entry">
+                <a target="_blank" href="https://techcabal.com/2022/09/13/nigeria-cant-support-its-tech-talent-now-they-are-leaving/" class="block-20" style="background-image: url('images/techcabal.png');">
+                </a>
+                <div class="text mt-3 float-right d-block">
+                    <div class="d-flex align-items-center mb-3 meta">
+                      <p class="mb-0">
+                          <span class="mr-2">April, 2023</span>
+                      </p>
+                  </div>
+                  <h3 class="heading"><a target="_blank" href="https://techcabal.com/2022/09/13/nigeria-cant-support-its-tech-talent-now-they-are-leaving/">Techcabal &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</a></h3>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 d-flex ftco-animate">
+                <div class="blog-entry">
+                <a target="_blank" href="https://x.com/ahuoyiza_/status/1564191139623755776?s=46&t=gN1ZXCr34aM9Rs29RjdbUg" class="block-20" style="background-image: url('images/she-heroes-series.jpeg');">
+                </a>
+                <div class="text mt-3 float-right d-block">
+                    <div class="d-flex align-items-center mb-3 meta">
+                      <p class="mb-0">
+                          <span class="mr-2">August, 2022</span>
+                      </p>
+                  </div>
+                  <h3 class="heading"><a target="_blank" href="https://x.com/ahuoyiza_/status/1564191139623755776?s=46&t=gN1ZXCr34aM9Rs29RjdbUg">Guest Speaker - ADA She Heroes Series &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</a></h3>
+                  <p></p>
+                </div>
+              </div>
+            </div>
             <div class="col-md-6 d-flex ftco-animate">
                 <div class="blog-entry">
                 <a target="_blank" href="https://1010coding.com/2022/03/14/have-knowledge-in-technology-the-world-is-growing-fast-by-hope-oluwalolope-software-engineer-at-microsoft-canada/" class="block-20" style="background-image: url('images/edtech-interview.jpg');">
