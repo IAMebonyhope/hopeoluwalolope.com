@@ -27,6 +27,10 @@ switch ($location) {
 		require __DIR__ . $viewDir . 'programs.php';
 		break;
 
+	case '/vision-board':
+		require __DIR__ . $viewDir . 'vision-board-event.php';
+		break;
+	
     default:
         http_response_code(404);
         require __DIR__ . $viewDir . '404.php';
