@@ -62,15 +62,10 @@
                 <div class="row d-flex">
                   <div class="col-md-4 d-flex ftco-animate">
                       <div class="blog-entry justify-content-end">
-                      <a href="./vision-board-event" class="block-20" style="background-image: url('images/vision_board_party.jpeg');">
+                      <a href="./vision-board" class="block-20" style="background-image: url('images/vb-flier-2.png');">
                       </a>
                       <div class="text mt-3 float-right d-block">
-                          <h3 class="heading"><a href="./vision-board-event">Vision Board Party</a></h3>
-                          <div class="d-flex align-items-center mb-3 meta">
-                              <p class="mb-0">
-                                  <span class="mr-2">Role: Facilitator</span>
-                              </p>
-                          </div>
+                          <h3 class="heading"><a href="./vision-board">Vision Board Party</a></h3>
                           <div class="d-flex align-items-center mb-3 meta">
                               <p class="mb-0">
                                   <span class="mr-2"><i class="icon-calendar"></i> Every January</span>
@@ -86,11 +81,6 @@
                       </a>
                       <div class="text mt-3 float-right d-block">
                           <h3 class="heading"><a target="_blank" href="https://www.linkedin.com/posts/nithub_veesprout-cloudcomputing-bootcamp-activity-7116497502828138497--17m">Nithub X VeeSprout Cloud Computing Bootcamp</a></h3>
-                          <div class="d-flex align-items-center mb-3 meta">
-                              <p class="mb-0">
-                                  <span class="mr-2">Role: Program Co-ordinator</span>
-                              </p>
-                          </div>
                           <div class="d-flex align-items-center mb-3 meta">
                               <p class="mb-0">
                                   <span class="mr-2"><i class="icon-calendar"></i> Oct - Dec 2023</span>
@@ -110,11 +100,6 @@
                           <h3 class="heading"><a target="_blank" href="https://nithub.unilag.edu.ng/dsa-bootcamp/">Nithub Data Structures and Algorithms Bootcamp</a></h3>
                           <div class="d-flex align-items-center mb-3 meta">
                               <p class="mb-0">
-                                  <span class="mr-2">Role: Program Co-ordinator</span>
-                              </p>
-                          </div>
-                          <div class="d-flex align-items-center mb-3 meta">
-                              <p class="mb-0">
                                   <span class="mr-2"><i class="icon-calendar"></i> Nov 2022 - Apr 2023</span>
                               </p>
                           </div>
@@ -130,11 +115,6 @@
                       </a>
                       <div class="text mt-3 float-right d-block">
                           <h3 class="heading"><a target="_blank" href="https://www.youtube.com/playlist?list=PLVcEZG2JPVheCoaDVGb2Gm0AfFqfL7_vr">WWCode Algorithm and Data Structures Series</a></h3>
-                          <div class="d-flex align-items-center mb-3 meta">
-                              <p class="mb-0">
-                                  <span class="mr-2">Role: Program Co-ordinator</span>
-                              </p>
-                          </div>
                           <div class="d-flex align-items-center mb-3 meta">
                               <p class="mb-0">
                                   <span class="mr-2"><i class="icon-calendar"></i> Feb - July 2022</span>
