@@ -66,21 +66,23 @@
             <p>
               <img src="images/vb-flier-2.png" alt="" class="img-fluid">
             </p>
-
           </div> <!-- .col-md-8 -->
-          <div class="col-lg-4 sidebar ftco-animate">
-            <div class="sidebar-box ftco-animate">
-                <h3 class="heading-sidebar">What you need</h3>
-                <ul class="categories">
-                    <li><a href="#">Plan to commit 2 hours for the workshop</a></li>
-                    <li><a href="#">Write down your major goals for the year ahead of time. And split them into categories if needed.</a></li>
-                    <li><a href="https://www.canva.com/">Sign up on canva</a></li>
-                    <li><a href="#">Come with your laptop</a></li>
-                </ul>
-            </div>
-            <p><a target="_blank" href="https://bit.ly/Vision-board-party" class="btn py-3 px-4 btn-primary"> Register here </a></p>
-        </div>
 
+          <div class="col-lg-4 ftco-animate">
+            <h2>By joining this event, you will:</h2>
+            <h5>- Create a powerful tool to visualize your goals and dreams, and to keep yourself motivated and focused</h5>
+            <h5>- Network with other like-minded professionals, share your aspirations, and learn from each other</h5>
+            <h5>- Have fun and unleash your creativity</h5>
+            <br/>
+            <br/>
+
+            <h2>What you need:</h2>
+            <h5>- Plan to commit 2 hours for the workshop</h5>
+            <h5>- Write down your major goals for the year ahead of time. And split them into categories if need</h5>
+            <h5>- Sign up on <a href="https://www.canva.com/">canva</a></h5>
+            <h5>- Come with your laptop</a></h5>
+            <p><a target="_blank" href="https://bit.ly/Vision-board-party" class="btn py-3 px-4 btn-primary"> Register here </a></p>
+          </div> <!-- .col-md-8 -->
         </div>
       </div>
     </section> <!-- .section -->
