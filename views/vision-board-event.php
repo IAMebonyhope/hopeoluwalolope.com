@@ -73,6 +73,7 @@
             <h5>- Create a powerful tool to visualize your goals and dreams, and to keep yourself motivated and focused</h5>
             <h5>- Network with other like-minded professionals, share your aspirations, and learn from each other</h5>
             <h5>- Have fun and unleash your creativity</h5>
+            <h5>- Get a walkthrough of my free notion template for goal setting and tracking</h5>
             <br/>
             <br/>
 
