@@ -27,6 +27,10 @@ switch ($location) {
 		require __DIR__ . $viewDir . 'programs.php';
 		break;
 
+    case '/speaking':
+        require __DIR__ . $viewDir . 'speaking.php';
+        break;
+
 	case '/vision-board':
 		require __DIR__ . $viewDir . 'vision-board-event.php';
 		break;

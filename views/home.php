@@ -37,7 +37,8 @@
 	          <li class="nav-item"><a href="./about" class="nav-link"><span>About</span></a></li>
 	          <li class="nav-item"><a target="_blank" href="https://blog.hopeoluwalolope.com/" class="nav-link"><span>Blog</span></a></li>
 	          <li class="nav-item"><a href="./programs" class="nav-link"><span>Community and Programs</span></a></li>
-	          <li class="nav-item"><a href="./features" class="nav-link"><span>Features</span></a></li>
+	          <li class="nav-item"><a href="./speaking" class="nav-link"><span>Speaking</span></a></li>  
+			  <li class="nav-item"><a href="./features" class="nav-link"><span>Features</span></a></li>
 	          <li class="nav-item"><a href="./contact" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>
