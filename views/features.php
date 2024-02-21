@@ -53,9 +53,24 @@
               <h2 class="mb-4">Features</h2>
             </div>
           </div>
-          <div class="row d-flex">
+        <div class="row d-flex">
           <div class="col-md-6 d-flex ftco-animate">
-                <div class="blog-entry">
+              <div class="blog-entry">
+                <a target="_blank" href="https://www.linkedin.com/posts/tech4dev_techmentorship-mentorship-buildingthefuturetogrther-activity-7146202233863409665-RZkO/" class="block-20" style="background-image: url('images/tech4dev-honour-call.jpg');">
+                </a>
+                <div class="text mt-3 float-right d-block">
+                    <div class="d-flex align-items-center mb-3 meta">
+                      <p class="mb-0">
+                          <span class="mr-2">January, 2024</span>
+                      </p>
+                  </div>
+                  <h3 class="heading"><a target="_blank" href="https://www.linkedin.com/posts/tech4dev_techmentorship-mentorship-buildingthefuturetogrther-activity-7146202233863409665-RZkO/">Tech4Dev &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</a></h3>
+                  <p></p>
+                </div>
+              </div>
+          </div>
+          <div class="col-md-6 d-flex ftco-animate">
+              <div class="blog-entry">
                 <a target="_blank" href="https://techcabal.com/2022/09/13/nigeria-cant-support-its-tech-talent-now-they-are-leaving/" class="block-20" style="background-image: url('images/techcabal.png');">
                 </a>
                 <div class="text mt-3 float-right d-block">
@@ -65,6 +80,21 @@
                       </p>
                   </div>
                   <h3 class="heading"><a target="_blank" href="https://techcabal.com/2022/09/13/nigeria-cant-support-its-tech-talent-now-they-are-leaving/">Techcabal &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</a></h3>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 d-flex ftco-animate">
+              <div class="blog-entry">
+                <a target="_blank" href="#" class="block-20" style="background-image: url('images/Activate-Conference-Award.png');">
+                </a>
+                <div class="text mt-3 float-right d-block">
+                    <div class="d-flex align-items-center mb-3 meta">
+                      <p class="mb-0">
+                          <span class="mr-2">November, 2022</span>
+                      </p>
+                  </div>
+                  <h3 class="heading"><a target="_blank" href="h#">Microsoft's Activate Conference Award &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</a></h3>
                   <p></p>
                 </div>
               </div>

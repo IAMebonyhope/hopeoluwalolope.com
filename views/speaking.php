@@ -72,7 +72,22 @@
 				</div>
 				
 
-				<div class="col-md-3 d-flex ftco-animate">
+				<div class="col-md-4 d-flex ftco-animate">
+					<div class="blog-entry">
+						<a target="_blank" href="https://youtu.be/BQnbEbvAe_c" class="block-20" style="background-image: url('images/vision-board-tech4dev.jpg');">
+						</a>
+						<div class="text mt-3 float-right d-block">
+							<div class="d-flex align-items-center mb-3 meta">
+								<p class="mb-0">
+									<span class="mr-2">Vision Board Workshop</span>
+								</p>
+							</div>
+							<h3 class="heading"><a target="_blank" href="https://youtu.be/BQnbEbvAe_c">Tech4Dev &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp</a></h3>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry">
 						<a target="_blank" href="https://www.youtube.com/watch?v=NSUkJh1u6L4" class="block-20" style="background-image: url('images/mct-africa-talk.jpg');">
 						</a>
@@ -87,7 +102,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 d-flex ftco-animate">
+				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry">
 						<a target="_blank" href="https://youtu.be/GojrsxxFJ_U" class="block-20" style="background-image: url('images/wwcode-observability-talk.png');">
 						</a>
@@ -102,7 +117,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 d-flex ftco-animate">
+				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry">
 						<a target="_blank" href="https://www.youtube.com/watch?v=lgZhoLFE-xw" class="block-20" style="background-image: url('images/career-path-panel.jpg');">
 						</a>
@@ -117,7 +132,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 d-flex ftco-animate">
+				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry">
 						<a target="_blank" href="https://www.youtube.com/watch?v=GZFPZwVIy44&t=24s" class="block-20" style="background-image: url('images/azure-functions-talk.jpg');">
 						</a>
@@ -132,7 +147,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 d-flex ftco-animate">
+				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry">
 						<a target="_blank" href="https://www.youtube.com/watch?v=6Ug0UjJwTpw&t=1059s" class="block-20" style="background-image: url('images/application-insights-talk.jpg');">
 						</a>
@@ -147,7 +162,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 d-flex ftco-animate">
+				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry">
 						<a target="_blank" href="https://www.youtube.com/watch?v=dYtv-RBbDMI&t=3s" class="block-20" style="background-image: url('images/wwcode-connect-panel.jpg');">
 						</a>
@@ -162,7 +177,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 d-flex ftco-animate">
+				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry">
 						<a target="_blank" href="https://www.youtube.com/watch?v=_B40YHEw-OU&t=1486s" class="block-20" style="background-image: url('images/breaking-the-bias-panel.jpeg');">
 						</a>
