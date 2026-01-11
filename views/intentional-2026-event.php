@@ -214,7 +214,7 @@
                     <!-- Event Introduction -->
                     <div class="mb-5">
                         <h2 class="mb-4">Are you tired of setting goals that fade by February?</h2>
-                        <p class="lead">Then this experience was created for you.</p>
+                        <p class="lead">Then this experience is created for you.</p>
                         
                         <p><strong>This is not just another vision board session.</strong></p>
                         <p><strong>This is not a session for figuring out what goals to have.</strong></p>
