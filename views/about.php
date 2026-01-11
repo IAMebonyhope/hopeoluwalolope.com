@@ -52,6 +52,7 @@
 				<div class="col-md-7 heading-section text-center ftco-animate">
 				<h1 class="big big-2">About</h1>
 				<h2 class="mb-4">About Me</h2>
+				<p class="lead">Building reliable systems, nurturing intentional communities, and living a life aligned with purpose and faith.</p>
 				</div>
           	</div>
 		</div>
@@ -71,17 +72,35 @@
 				<div class="col-md-6 col-lg-7 pl-lg-5 pb-5">
     				<div class="row justify-content-start pb-3">
 						<div class="col-md-12 heading-section ftco-animate">
-							<h5> 
-								Hope Oluwalolope is a Software Engineer at Microsoft where she builds services that manage Microsoft's Cloud infrastructure. Beyond her role, she thrives as an influential leader within various tech communities.
+							<h5>
+								Hi, I'm Hope, a software engineer, community builder, and purpose-driven leader who believes that a meaningful life and career are built with intention, alignment, and faith.
 								<br/>
 								<br/>
-								Hope's commitment to propelling tech communities forward is most evident in her pivotal roles. She is an integral part of organizations like WWCode (Women Who Code), where she contributes to creating a supportive space for women in technology. Additionally, her involvement extends to the Azure Nigeria Community, where she participates in initiatives that drive technological advancement across the African continent. Moreover, she extends her expertise as a mentor in the Tech4Dev community, guiding and empowering fellow women on their growth journey.
+								By profession, I'm a Software Engineer at Microsoft, where I work on large-scale cloud infrastructure and help teams build reliable, observable systems that serve millions of users. 
+								I'm deeply passionate about turning complex technical problems into resilient, well-designed solutions, and about helping engineers and organizations grow through clarity, systems thinking, and collaboration.
 								<br/>
 								<br/>
-								Her engagement isn't limited to these communities; she also actively organizes training sessions and meetups encompassing subjects like tech interviews, algorithms, data structures, cloud computing, and career progression.
+								Beyond my day-to-day work in tech, I'm a community manager, speaker, and mentor, committed to empowering women, Black professionals, Africans, and aspiring developers to step confidently into their careers. 
+								I've had the privilege of building and leading communities, organizing workshops and goal-setting events, speaking at conferences, and creating spaces where people feel seen, supported, and inspired to grow.
 								<br/>
 								<br/>
-								She is always striving to create an environment that nurtures continuous learning and professional growth.
+								I'm also currently pursuing an MBA, where I'm sharpening my understanding of leadership, strategy, and organizational impact, 
+								bridging the gap between technical execution and purposeful decision-making.
+								<br/>
+								<br/>
+								At the core of everything I do is faith. 
+								My journey is anchored in trusting God's timing, walking in alignment, 
+								and believing that calling matters just as much as competence. 
+								I'm passionate about helping people see their careers not just as a ladder to climb, 
+								but as a journey to steward, one that allows room for growth, service, and authenticity.
+								<br/>
+								<br/>
+								This space is where I share my work, my reflections, and the things I'm building 
+								across technology, leadership, faith, and community. 
+								If you're here because you're looking to grow, redefine your path, or build something meaningful, you're in the right place.
+								<br/>
+								<br/>
+								Welcome 🤍
 							</h5>
 						</div>
 					</div>

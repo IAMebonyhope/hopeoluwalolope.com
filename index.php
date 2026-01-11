@@ -34,6 +34,10 @@ switch ($location) {
 	case '/vision-board':
 		require __DIR__ . $viewDir . 'vision-board-event.php';
 		break;
+    
+    case '/intentional-2026':
+		require __DIR__ . $viewDir . 'intentional-2026-event.php';
+		break;
 	
     default:
         http_response_code(404);
