@@ -200,7 +200,7 @@
                 <div class="col-md-12 text-center">
                     <h1 class="display-4 mb-3">Intentional 2026: Plan With Purpose</h1>
                     <p class="lead mb-4">Are you ready to actually follow through on your goals this year?</p>
-                    <a href="#" class="btn-register">👉 Register Here</a>
+                    <a href="https://forms.gle/fWGsZ3wFTHKR2HHk9" target="_blank" class="btn-register">👉 Register Here</a>
                 </div>
             </div>
         </div>
@@ -232,7 +232,7 @@
                     
                     <!-- Register Button -->
                     <div class="text-center mb-4">
-                        <a href="#" class="btn-register">👉 Register Here</a>
+                        <a href="https://forms.gle/fWGsZ3wFTHKR2HHk9" target="_blank" class="btn-register">👉 Register Here</a>
                     </div>
 
                     <!-- What We'll Do -->
@@ -292,7 +292,7 @@
                     <div class="cta-section">
                         <h3>✨ Spots are intentionally limited</h3>
                         <p>to keep this experience focused and impactful.</p>
-                        <a href="#" class="btn-register">👉 Register Here</a>
+                        <a href="https://forms.gle/fWGsZ3wFTHKR2HHk9" target="_blank" class="btn-register">👉 Register Here</a>
                     </div>
 
                 </div> <!-- .col-lg-8 -->
@@ -345,7 +345,7 @@
 
                     <!-- Final CTA -->
                     <div class="text-center">
-                        <a href="#" class="btn-register">👉 Register Here</a>
+                        <a href="https://forms.gle/fWGsZ3wFTHKR2HHk9" target="_blank" class="btn-register">👉 Register Here</a>
                         <p class="mt-3 small text-muted">Limited spots available</p>
                     </div>
 
